@@ -3,6 +3,8 @@ lh-vector
 
 The Lemke Howson algorithm simulated with the use of covering vectors.
 
+This fork is for use with GTE v2.
+
 Running the program
 ===================
 The program should be started with at least one argument to describe
